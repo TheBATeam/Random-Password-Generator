@@ -1,5 +1,5 @@
 # Random-Password-Generator
-It is used for **generating** random **strings** or **password**.  Then you can use this password to either place a **random password** in a login system. or to make a system more secure by changing its password every 20 mins.  And only admin known where the Password file resides in the system.
+It is used for **generating** random **strings** or **password**.  Then you can use this password to either place a **random password** in a login system, or to make a system more secure by changing its password every 20 mins.  And only admin known where the Password file resides in the system.
 
 ![Preview](https://i2.wp.com/www.thebateam.org/wp-content/uploads/2018/12/18-1.png?w=750&ssl=1)
 
